@@ -69,11 +69,11 @@ education:
     info:
       - degree: Ingenieria de sistemas
         university: Pontifica Universidad Javeriana
-        time: 2023
+        time: 2023.
         details: El programa de Ingeniería de Sistemas en la Javeriana forma profesionales capaces de modelar, diseñar y gestionar soluciones basadas en tecnologías de la información y las comunicaciones, con el fin de impulsar la mejora, transformación y avance tecnológico del país. Se destaca el énfasis en el manejo eficiente, seguro y ético de datos desde una perspectiva global e innovadora.
       - degree: Economia 
         university: Pontificia Universidad Javeriana
-        time: 2023
+        time: 2023.
         details: El programa busca que comprendas los procesos económicos desde una perspectiva multidisciplinaria, abordando temáticas como innovación tecnológica, cambio climático, pobreza, desigualdad, educación y tributación. Vas a aprender a analizar datos, interpretar tendencias y proponer soluciones para el desarrollo económico del país
           
 
