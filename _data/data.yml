@@ -61,28 +61,15 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Ingenieria de sistemas
+        university: Pontifica Universidad Javeriana
+        time: 2023
+        details: El programa de Ingeniería de Sistemas en la Javeriana forma profesionales capaces de modelar, diseñar y gestionar soluciones basadas en tecnologías de la información y las comunicaciones, con el fin de impulsar la mejora, transformación y avance tecnológico del país. Se destaca el énfasis en el manejo eficiente, seguro y ético de datos desde una perspectiva global e innovadora.
+      - degree: Economia 
+        university: Pontificia Universidad Javeriana
+        time: 2023
+        details: El programa busca que comprendas los procesos económicos desde una perspectiva multidisciplinaria, abordando temáticas como innovación tecnológica, cambio climático, pobreza, desigualdad, educación y tributación. Vas a aprender a analizar datos, interpretar tendencias y proponer soluciones para el desarrollo económico del país
+          
 
 experiences:
     title: Experiences
